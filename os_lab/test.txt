@@ -1,0 +1,4 @@
+This is a test file which contains palindrome words like mom,
+bear etc. The program must read the file and output or write the palindromes to another file.
+
+Blah blah malayalam. More mom, sos, soi etc.
